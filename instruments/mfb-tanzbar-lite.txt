@@ -1,0 +1,39 @@
+NAME:Tanzbar Lite
+OUT:A
+CHANNEL:10
+2:BD Tone
+64:BD Decay
+3:ND Tune
+11:SD Tone
+13:SD Noise
+67:SD Decay
+75:CP Decay
+18:CP Filter
+76:CP Attack
+77:CP Trigger
+19:TT Tune
+20:TT Decay
+78:CO Decay
+79:CO Tune
+82:CO Pan
+73:TT Pan
+84:CB Tune
+85:CB Decay
+86:CL Tune
+87:CL Decay
+88:CY Decay
+92:CY Tone
+89:CY Tune
+90:OH Decay
+91:HH Decay
+N36:BD
+N37:SD 
+N38:RS
+N39:CL
+N40:TT
+N41:CO
+N42:CB
+N43:CL
+N44:CYM
+N45:OH
+N46:HH
