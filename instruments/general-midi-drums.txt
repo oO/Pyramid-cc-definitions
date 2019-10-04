@@ -1,0 +1,76 @@
+NAME:xGM Drums
+OUT:USB
+CHANNEL:10
+N13: Surdo Mute
+N14: Surdo Open
+N15: Hi-Q
+N16: Whip Slap
+N17: Scratch Push
+N18: Scratch Pull
+N19: Finger Snap
+N20: Click Noise
+N21: Metro. Click
+N22: Metro. Bell
+N23: Seq Click L
+N24: Seq Click H
+N25: Brush Tap
+N26: Brush Swirl L
+N27: Brush Slap
+N28: Brush Swirl H
+N29: Snare Roll
+N30: Castanet
+N31: Snare L
+N32: Sticks
+N33: BD Lo
+N34: Rim Open
+N35: BD Med
+N36: BD Hi
+N37: Side Stick
+N38: Snare M
+N39: Clap
+N40: Snare H
+N41: Tom L1
+N42: HH Close
+N43: Tom L2
+N44: HH Pedal
+N45: Tom L3
+N46: HH Open
+N47: Tom M1
+N48: Tom M2
+N49: Cym Crash
+N50: Tom H1
+N51: Cym Ride
+N52: Cym China
+N53: Cym Cup
+N54: Tambourine
+N55: Cym Splash
+N56: Cowbell
+N57: Cym Crash
+N58: Vibraslap
+N59: Cym Ride
+N60: Bongo H
+N61: Bongo L
+N62: Conga M
+N63: Conga H
+N64: Conga L
+N65: Timba H
+N66: Timba L
+N67: Agogo H
+N68: Agogo L
+N69: Cabasa
+N70: Maracas
+N71: Samba H
+N72: Samba L
+N73: Guiro S
+N74: Guiro L
+N75: Claves
+N76: Wood H
+N77: Wood L
+N78: Cuica M
+N79: Cuica O
+N80: Tri. M
+N81: Tri. O
+N82: Shaker
+N83: Jingle
+N84: Bell Tree
+ 
