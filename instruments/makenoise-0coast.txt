@@ -1,0 +1,24 @@
+
+NAME:0Coast
+OUT:B
+CHANNEL:1
+
+5: Porta T
+65: Porta
+117: Arp
+119: Arp Type
+118: Legato
+102: A Chan
+103: B Chan
+104: A CV
+105: B CV
+106: A Gate
+107: B Gate
+108: A Bend
+109: B Bend
+110: A After
+111: B After
+112: A Velo
+113: B Velo
+114: Clock
+116: Clock Div 

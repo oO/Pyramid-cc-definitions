@@ -14,6 +14,7 @@ CHANNEL:11
 20:TT Decay
 79:TT Attack
 29:BO Tune
+78:BO Decay
 82:BO Attack
 86:CL Tune
 87:CL Decay

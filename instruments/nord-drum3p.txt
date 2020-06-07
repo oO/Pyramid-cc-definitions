@@ -1,0 +1,40 @@
+NAME:Nord 3P
+OUT:A
+CHANNEL:1
+
+0: Bank MSB
+7: Level
+10: Pan
+12: Reverb Type
+13: Reverb Color
+14: Noise Filter Frequency
+15: Noise Filter Type
+16: Noise dyn Filter
+17: Noise Filter resonance
+18: Noise level
+19: Tone level
+20: Noise decay mode
+21: Noise decay
+23: Dist amount
+24: Dist Type
+25: EQ Frequency
+26: EQ Gain
+30: Tone spectra
+31: Tone Pitch msB
+32: Bank LSB
+44: Delay rate
+45: Delay Feedback
+46: Tone Wave
+47: Delay amount
+48: Reverb amount
+49: Tone decay mode
+50: Tone decay
+52: Tone Freq
+53: Tone dyn Filter
+54: Tone Bend amount
+55: Tone Bend Time
+56: Click level
+57: Click Type
+59: Mono Group
+63: Tone Pitch LSB
+70: Channel Select
